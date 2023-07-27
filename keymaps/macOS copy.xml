@@ -1,0 +1,23 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+  </action>
+  <action id="Tool_External Tools_远程编译运行apk">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="Tool_External Tools_远程项目clean">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
+  <action id="Tool_External Tools_远程项目install">
+    <keyboard-shortcut first-keystroke="ctrl meta semicolon" />
+  </action>
+  <action id="Tool_External Tools_远程项目sync">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+</keymap>
